@@ -1,5 +1,3 @@
-# sapbert-vs-biobert-clinical-normalization
-Comparing SapBERT and BioBERT for clinical term normalization to SNOMED CT using cosine similarity and terminology mapping accuracy.
 # SapBERT vs. BioBERT for Clinical Terminology Normalization
 
 This project evaluates two state-of-the-art biomedical language models — **SapBERT** and **BioBERT** — on their ability to normalize ambiguous clinical inputs to standardized SNOMED CT concepts.
